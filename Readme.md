@@ -1,4 +1,4 @@
-#Description
+# Description
 
 This is a demo app for a news articles site where every registered user
 can add articles, view a list of their articles, upload multiple photos 
@@ -9,7 +9,7 @@ Rss feed with the latest articles is updated on article creation and deletion.
 
 
 
-#Technologies
+# Technologies
 
 The application is built upon a fresh installation of Laravel 5.8 and expected to be served via  WAMP/LAMP stack (Apache (2.4.27)/MySql (5.7.19)). 
 A single 3rd party library is added for the generation of pdfs - https://github.com/mpdf/mpdf
@@ -17,7 +17,7 @@ Models are defined as the framework's ORM Eloquent models.
 
 
 
-#Installataion
+# Installataion
 
 1. Unpack archive.
 2. Open a console window on the project root and run
